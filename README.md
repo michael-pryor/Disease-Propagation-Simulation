@@ -5,7 +5,7 @@ This is a disease propagation simulation which uses CUDA 5.0 to access the graph
 
 Download the required DLLs here: http://mikenetapicouk.fatcow.com/personal/dlls.zip
 
-Download a compiled executable here (for Windows): http://mikenetapicouk.fatcow.com/personal/disease_propogation.zip
+Download a compiled executable here (for Windows): http://mikenetapicouk.fatcow.com/personal/disease_propagation.zip
 
 Some screenshots:
 ![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors.png)
