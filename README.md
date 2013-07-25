@@ -11,6 +11,8 @@ Some screenshots:
 
 ![](http://mikenetapicouk.fatcow.com/personal/just_started.png)
 ![](http://mikenetapicouk.fatcow.com/personal/infection_radius.png)
+![](http://mikenetapicouk.fatcow.com/personal/just_started.png)
+![](http://mikenetapicouk.fatcow.com/personal/infection_radius.png)
 ![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors.png)
 ![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors_finished_1.png)
 ![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors_finished_2.png)
