@@ -3,13 +3,8 @@ CUDA disease propagation simulation
 
 This is a disease propagation simulation which uses CUDA 5.0 to access the graphics card GPU. OpenGL, FreeGlut and Glew are used to generate a 3D display.
 
-Download the required DLLs here: http://mikenetapicouk.fatcow.com/personal/dlls.zip
+Green nodes are healthy, red nodes are infected and blue nodes are recovered (and immune to reinfection). Using the GPU we can simulate a great many more nodes than we can with a CPU.
 
-Download a compiled executable here (for Windows): http://mikenetapicouk.fatcow.com/personal/disease_propagation.zip
+[![Video demonstrating the application](https://img.youtube.com/vi/vbGtLnlyQkY/0.jpg)](https://www.youtube.com/watch?v=vbGtLnlyQkY)
 
-Some screenshots:
-![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors.png)
 
-![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors_finished_1.png)
-
-![](http://mikenetapicouk.fatcow.com/personal/alot_of_actors_finished_2.png)
